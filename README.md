@@ -1,0 +1,1 @@
+# Fully_connected_multylayer_DNN_to_classify_MNIST10_implemented_from_scratch

@@ -26,7 +26,7 @@
 This project is in part, an assignment given in the Deep Learning course "CSCI 315: Artificial Intelligence through Deep Learning" which was offered at BGU by prof. Levy.
 The main purpose of the Code presented here is to classify some 500 test examples of the MNIST 10 dataset, by training on 500 examples from a training dataset.
 
-As you'll be able to see in the assignment description pdf, only one layer was required to complete the assignment, however the result is easily generalized in the "MultyLayerBackprop.py" file to include an arbitrary number of hidden layers, chosen by the user. 
+As you'll be able to see in the assignment description pdf, only one hidden layer was required to complete the assignment, however the result is easily generalized in the "MultyLayerBackprop.py" file to include an arbitrary number of hidden layers, chosen by the user. 
 
 Some further educational content may be found in the code presented:
 1) The use of "Mumentum" to accelerate the network's convergence requires another tunable hyper parameter. The user will be able to tweek it and observe the changes is convergence rates.
